@@ -1,1 +1,1 @@
-Here you can find my report, python scripts and some figures for my theory computing project: an investigation of chaotic pendula.
+Here you can find my report, python scripts and some figures for my theory computing project: an investigation of chaotic pendula. Please note that while this investigation was supposed to be collaborative and another students name is on the report, he dropped out of university at the beginning og this project so all the work is my own.
